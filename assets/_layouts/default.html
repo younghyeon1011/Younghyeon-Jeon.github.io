@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        <div style="display:inline;float:center">
+        <p>{{ site.description | default: site.github.project_tagline }}
+          <img src="VCU_Logo.png" style="width:150px" /></p>
+          
+          
+          <img src="{{site.logo | relative_url}}" alt="Logo"  style="width:230px" />
+          
+          <p>
+          <br><b>Mailing address</b>:
+          <br>Virginia Commonwealth University
+          <br>B3179 Snead Hall
+          <br>301 W Main St
+          <br>Richmond, VA 23284
+          <br>
+          <br><b>E-mail</b>:
+            <br><small>yumm "at" vcu.edu</small>
+            
+        <br>        
+        <br><b>Links</b>:
+        <br><a href="https://directory.business.vcu.edu/directory.php?area=Economics" target="_blank">Department Website</a>
+        <br><a href="https://scholar.google.com/citations?user=kpF0wT8AAAAJ&hl=en" target="_blank">Google Scholar Page</a>
+        <br><a href="https://ideas.repec.org/f/pyu225.html" target="_blank">IDEAS/RePEc</a>   
+        <br><a href="https://orcid.org/0000-0002-1272-9822" target="_blank">ORCID</a>  
+        
+        </p>
+            
+      </header>
+      <section>
+
+      {{ content }}
+        
+      </section>
+      
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Q65FQGBLJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3Q65FQGBLJ');
+</script>
+  </body>
+</html>
