@@ -18,8 +18,8 @@ I received my Ph.D. degree in 2023 from the University of Missouri-Columbia and 
 
 ## Publications
 
-<a href="https://drive.google.com/file/d/1jpgofo1NTyC8amocsRHhU1Am9mWPzgsY/view?usp=drive_link">
-Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities</a><br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414">
+A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br>
 Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
 <i> Applied Economic Perspectives and Policy</i>, 2024.
 
