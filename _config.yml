@@ -1,5 +1,6 @@
+#title: Younghyeon Jeon
 logo: /assets/profile.jpg
-#description: text below image
-title: Younghyeon Jeon
-show_downloads: true
+description: <p style="font-size:25px;"> Younghyeon Jeon<p>
+
+show_downloads: false
 theme: jekyll-theme-minimal
