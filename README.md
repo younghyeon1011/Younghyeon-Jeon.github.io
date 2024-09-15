@@ -37,7 +37,7 @@ Revealing the Fundamental Parameters of a Food Demand System using Estimated Ela
 Estimation of Commodity-Level Demand across Countries: An EASI application</a><br>
 (with Thompson, W., Hoang, H.)<br>
 <br>
-Effects of State Marketing Promotions on Consumer Preferences for Locally Grown Blueberries</a><br>
+Effects of State Marketing Promotions on Consumer Preferences for Locally Grown Blueberries<br>
 (with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)
 
 -----
