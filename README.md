@@ -53,7 +53,7 @@ Eye Tracking Study of Florida Grown Blueberries<br>
 ## Teaching
 
 University of Missouri-Columbia<br>
-<i>University of Missouri-Columbia</i><br>
+<i>Teaching Assistant</i><br>
 * ABM 4251/7251 - Agricultural Prices [Spring 2023]
 [<a href="https://drive.google.com/file/d/1ykF8eD0weIil5HfLaDAHSzwqvIfJV32i/view?usp=drive_link" style="color:#2ebaae;">Course Evaluation</a>]<br>
 <br>
