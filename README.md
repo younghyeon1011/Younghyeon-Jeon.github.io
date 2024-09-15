@@ -47,4 +47,15 @@ Effects of State Marketing Promotions on Consumer Preferences for Locally Grown 
 Eye Tracking Study of Florida Grown Blueberries<br>
 (with Khachatryan, H., Wei, X., and Nayga Jr, R. M.)
 
+-----
+<br>
+
+## Teaching
+
+University of Missouri-Columbia
+<i>University of Missouri-Columbia</i>
+ABM 4251/7251 - Agricultural Prices [Spring 2023]
+<br>[<a href="https://drive.google.com/file/d/1ykF8eD0weIil5HfLaDAHSzwqvIfJV32i/view?usp=drive_link" style="color:#2ebaae;">Course Evaluation</a>]<br>
+<br>
+ABM 4251/7251 - Agricultural Prices [Spring 2021]
 
