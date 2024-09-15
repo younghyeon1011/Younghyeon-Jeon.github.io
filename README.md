@@ -20,8 +20,8 @@ I received my Ph.D. degree in 2023 from the University of Missouri-Columbia and 
 
 <a href="https://drive.google.com/file/d/1jpgofo1NTyC8amocsRHhU1Am9mWPzgsY/view?usp=drive_link">
 Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities</a><br>
-(with Thompson, W., Hoang, H., Abler, D., and Miller, J. I.)<br>
-<i> Applied Economic Perspectives and Policy</i>, 46(2), 760-780.
+Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
+<i> Applied Economic Perspectives and Policy</i>, 2024.
 
 -----
 <br>
@@ -46,3 +46,5 @@ Effects of State Marketing Promotions on Consumer Preferences for Locally Grown 
 
 Eye Tracking Study of Florida Grown Blueberries </a><br>
 (with Khachatryan, H., Wei, X., and Nayga Jr, R. M.)
+
+
