@@ -47,6 +47,7 @@ Effects of State Marketing Promotions on Consumer Preferences for Locally Grown 
 Eye Tracking Study of Florida Grown Blueberries<br>
 (with Khachatryan, H., Wei, X., and Nayga Jr, R. M.)
 Reference Price Study in a Discrete Choice Experiment<br>
+
 -----
 <br>
 
