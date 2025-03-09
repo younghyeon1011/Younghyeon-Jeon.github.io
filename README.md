@@ -1,5 +1,4 @@
 {::options parse_block_html="true" /}
-<style> article { width: 80em } </style>
 
 ## 👏 Hello!
 
