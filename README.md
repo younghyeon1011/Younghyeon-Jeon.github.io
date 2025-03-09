@@ -48,7 +48,8 @@ Eye Tracking Study of Florida Grown Blueberries<br>
 (with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
 <br>
 Reference Price Information with Bayesian Estimation in Discrete Choice Analysis<br>
-(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
+(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)
+
 -----
 <br>
 
