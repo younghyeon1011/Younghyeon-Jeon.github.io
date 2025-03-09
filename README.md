@@ -2,7 +2,7 @@
 <style>
 /* Increase main content width */
 .page, .main {
-    max-width: 1200px; /* Adjust as needed */
+    max-width: 2000px; /* Adjust as needed */
     width: 90%;
     margin: 0 auto;
 }
