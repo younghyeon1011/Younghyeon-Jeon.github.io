@@ -38,8 +38,9 @@ Estimation of Commodity-Level Demand across Countries: An EASI application</a><b
 (with Thompson, W., Hoang, H.)<br>
 <br>
 Effects of State Marketing Promotions on Consumer Preferences for Locally Grown Blueberries<br>
-(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)
-<i>Submitted</i>
+(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
+<i>Under review</i>
+
 -----
 <br>
 
