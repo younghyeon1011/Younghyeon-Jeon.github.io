@@ -46,10 +46,10 @@ Estimation of Commodity-Level Demand across Countries: An EASI application</a><b
 
 ## Working in Progress
 
-Eye Tracking Study of Florida Grown Blueberries<br>
+<span style="color:black;">Eye Tracking Study of Florida Grown Blueberries</span><br>
 (with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
 <br>
-Reference Price Information with Bayesian Estimation in Discrete Choice Analysis<br>
+<span style="color:black;">Reference Price Information with Bayesian Estimation in Discrete Choice Analysis</span><br>
 (with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)
 
 -----
