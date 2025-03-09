@@ -1,4 +1,13 @@
 {::options parse_block_html="true" /}
+<style>
+/* Increase main content width */
+.page, .main {
+    max-width: 1200px; /* Adjust as needed */
+    width: 90%;
+    margin: 0 auto;
+}
+</style>
+
 
 ## 👏 Hello!
 
