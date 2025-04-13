@@ -39,7 +39,7 @@ Revealing the Fundamental Parameters of a Food Demand System using Estimated Ela
 <br>
 <a href="https://drive.google.com/file/d/1mKpyqYuruQHTwfo6XwBXvFTxge9pdjEW/view?usp=drive_link">
 Estimation of Commodity-Level Demand across Countries: An EASI application</a><br>
-(with Thompson, W., Hoang, H.)<br>
+(with Cho, C., Thompson, W., and Hoang, H.)<br>
 
 -----
 <br>
