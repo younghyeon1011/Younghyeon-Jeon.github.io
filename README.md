@@ -40,8 +40,9 @@ Revealing the Fundamental Parameters of a Food Demand System using Estimated Ela
 <a href="https://drive.google.com/file/d/1mKpyqYuruQHTwfo6XwBXvFTxge9pdjEW/view?usp=drive_link">
 Estimation of Commodity-Level Demand across Countries: An EASI application</a><br>
 (with Cho, C., Thompson, W., and Hoang, H.)<br>
+<br>
 <span style="color:black;">Reference Price Effects in Choice Experiment </span><br>
-(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)
+(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
 
 -----
 <br>
