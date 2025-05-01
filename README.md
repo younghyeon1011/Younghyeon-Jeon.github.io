@@ -10,7 +10,7 @@ I received my Ph.D. degree in 2023 from the University of Missouri-Columbia and 
 <br>
 
 ## Research Fields
-* Consumer Economics, Applied Econometrics
+* Agricultural Economics, Consumer Economics, Applied Microeconometrics
   
 -----
 <br>
