@@ -10,7 +10,7 @@ I received my Ph.D. degree in 2023 from the University of Missouri-Columbia and 
 <br>
 
 ## Research Fields
-* Demand and Price Analysi, Consumer Economics, Applied Econometrics
+* Demand and Price Analysis, Consumer Economics, Applied Econometrics
   
 -----
 <br>
